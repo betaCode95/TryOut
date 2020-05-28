@@ -2,7 +2,7 @@
 
 # TryOut [In Works]
 
-A module that helps in syncing locations
+A module that helps in standardizing coding, debugging, creating, testing on android. A full fledged boilerplate for your next App. That will reduce dev time, build time and bring consistency to your coding patterns
 
 * [Getting Started](#getting-started-)
 * [Architecture](#architecture-)
